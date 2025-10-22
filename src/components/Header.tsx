@@ -26,9 +26,11 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <div className="w-12 h-12 bg-gradient-to-br from-brand-teal to-brand-green rounded-lg flex items-center justify-center">
-              <Icon name="GraduationCap" size={28} className="text-white" />
-            </div>
+            <img 
+              src="https://cdn.poehali.dev/files/a17fa07a-9ef8-4c96-a44c-a9b06c6fa30b.png" 
+              alt="ДВЦКТ Эксперт" 
+              className="h-16 w-auto object-contain"
+            />
             <div>
               <h1 className="text-lg font-montserrat font-bold text-brand-dark">ДВЦКТ "Эксперт"</h1>
               <p className="text-xs text-brand-green font-opensans">Учебный центр</p>
