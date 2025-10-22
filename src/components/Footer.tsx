@@ -8,9 +8,9 @@ const Footer = () => {
           <div>
             <div className="flex items-center space-x-3 mb-4">
               <img 
-                src="https://cdn.poehali.dev/files/a17fa07a-9ef8-4c96-a44c-a9b06c6fa30b.png" 
+                src="/logo-expert.svg" 
                 alt="ДВЦКТ Эксперт" 
-                className="h-12 w-auto object-contain"
+                className="h-12 w-12 object-contain"
               />
               <div>
                 <h3 className="font-montserrat font-bold">ДВЦКТ "Эксперт"</h3>

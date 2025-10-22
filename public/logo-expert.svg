@@ -1,0 +1,14 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="20" fill="url(#gradient)"/>
+  <path d="M60 25L75 35V55L60 65L45 55V35L60 25Z" fill="white" opacity="0.2"/>
+  <path d="M40 45H80M40 55H80M40 65H80" stroke="white" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="60" cy="75" r="8" fill="white"/>
+  <path d="M60 83V90M55 90H65" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="60" y="105" text-anchor="middle" fill="white" font-family="Montserrat, sans-serif" font-size="14" font-weight="700">ЭКСПЕРТ</text>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5ebbbb"/>
+      <stop offset="1" stop-color="#6F9B9A"/>
+    </linearGradient>
+  </defs>
+</svg>

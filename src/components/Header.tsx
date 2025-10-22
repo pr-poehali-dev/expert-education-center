@@ -27,9 +27,9 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img 
-              src="https://cdn.poehali.dev/files/a17fa07a-9ef8-4c96-a44c-a9b06c6fa30b.png" 
+              src="/logo-expert.svg" 
               alt="ДВЦКТ Эксперт" 
-              className="h-16 w-auto object-contain"
+              className="h-14 w-14 object-contain"
             />
             <div>
               <h1 className="text-lg font-montserrat font-bold text-brand-dark">ДВЦКТ "Эксперт"</h1>
