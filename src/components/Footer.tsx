@@ -7,9 +7,11 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <div className="flex items-center space-x-3 mb-4">
-              <div className="w-10 h-10 bg-gradient-to-br from-brand-teal to-brand-green rounded-lg flex items-center justify-center">
-                <Icon name="GraduationCap" size={24} className="text-white" />
-              </div>
+              <img 
+                src="https://cdn.poehali.dev/files/a17fa07a-9ef8-4c96-a44c-a9b06c6fa30b.png" 
+                alt="ДВЦКТ Эксперт" 
+                className="h-12 w-auto object-contain"
+              />
               <div>
                 <h3 className="font-montserrat font-bold">ДВЦКТ "Эксперт"</h3>
                 <p className="text-xs text-white/70">Учебный центр</p>
